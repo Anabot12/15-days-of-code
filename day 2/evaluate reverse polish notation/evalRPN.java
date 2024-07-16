@@ -14,7 +14,7 @@ class Solution {
             else
             {
                 stack.push(Integer.parseInt(i));
-            }git 
+            }
         }
         return stack.pop();
 
